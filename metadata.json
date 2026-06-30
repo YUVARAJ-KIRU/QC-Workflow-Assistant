@@ -1,0 +1,6 @@
+{
+  "name": "QC Workflow Assistant",
+  "description": "An automated Quality Control (QC) workflow assistant that simulates and processes email payloads, evaluates compliance categories, and drafts automated replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
